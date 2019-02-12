@@ -1,6 +1,7 @@
 def instantiate_new_array
   arr = []
   return arr
+<<<<<<< HEAD
 end
 
 def array_with_two_elements
@@ -30,4 +31,6 @@ end
 
 def length_of_array(array)
   return array.length
+=======
+>>>>>>> e64367753530487f7fc9be85b97c8e7c66b577fd
 end
